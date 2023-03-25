@@ -1,0 +1,19 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "A text editor that features a number of data persistence techniques that serve as redundancy in when the options aren't supported by the browser",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenhosse/Text-Editor.git"
+  },
+  "author": "Helen Hosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helenhosse/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/helenhosse/Text-Editor#readme"
+}
