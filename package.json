@@ -4,7 +4,8 @@
   "description": "A text editor that features a number of data persistence techniques that serve as redundancy in when the options aren't supported by the browser",
   "main": "sever.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/helenhosse/Text-Editor/issues"
   },
-  "homepage": "https://github.com/helenhosse/Text-Editor#readme"
+  "homepage": "https://github.com/helenhosse/Text-Editor#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
